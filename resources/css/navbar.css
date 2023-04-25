@@ -24,7 +24,7 @@
 
 .nav-bar ul li a {
     text-decoration: none;
-
+    color: rgb(245, 245, 245);
 }
 
 .nav-bar ul li a:visited {
