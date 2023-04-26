@@ -1,0 +1,28 @@
+main {
+    display: flex;
+    justify-content: center;
+    padding-top: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(238, 230, 213);
+    min-height: calc(100vh - 4rem);
+}
+
+main .text-container {
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+}
+
+main .text-container p {
+    font-size: 1.5rem;
+    padding: 0.4rem;
+}
+
+main .text-container h2 {
+    font-size: 2rem;
+}
+
+main .text-container h4 {
+    font-size: 1.75rem;
+}
