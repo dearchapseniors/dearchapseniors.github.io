@@ -26,3 +26,7 @@ main .text-container h4 {
 main .text-container h2 {
     font-size: 2rem;
 }
+
+h4 {
+ font-size: 1.75rem;   
+}
